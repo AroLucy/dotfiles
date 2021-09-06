@@ -1,0 +1,39 @@
+{
+    "settings": {
+        "tabs": [
+            {
+                "name": "#general-chat",
+                "url": "/channels/830561525290237952/830561525290237954",
+                "selected": true,
+                "currentStatus": "none",
+                "iconUrl": "https://cdn.discordapp.com/icons/830561525290237952/d050911c0723b161146a8f5168938ca2.webp?size=128",
+                "channelId": "830561525290237954"
+            }
+        ],
+        "favs": [],
+        "favGroups": [],
+        "showTabBar": true,
+        "showFavBar": false,
+        "reopenLastChannel": false,
+        "showFavUnreadBadges": true,
+        "showFavMentionBadges": true,
+        "showFavTypingBadge": true,
+        "showEmptyFavBadges": true,
+        "showTabUnreadBadges": true,
+        "showTabMentionBadges": true,
+        "showTabTypingBadge": true,
+        "showEmptyTabBadges": false,
+        "showActiveTabUnreadBadges": false,
+        "showActiveTabMentionBadges": false,
+        "showActiveTabTypingBadge": false,
+        "showEmptyActiveTabBadges": false,
+        "compactStyle": true,
+        "privacyMode": false,
+        "showFavGroupUnreadBadges": true,
+        "showFavGroupMentionBadges": true,
+        "showFavGroupTypingBadge": true,
+        "showEmptyFavGroupBadges": true,
+        "showQuickSettings": false,
+        "alwaysFocusNewTabs": false
+    }
+}

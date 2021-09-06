@@ -1,0 +1,27 @@
+[Desktop Entry]
+Name=Active application
+Name[ca]=Applicació activa
+Name[ca@valencia]=Applicació activa
+Name[en_GB]=Active application
+Name[es]=Aplicación activa
+Name[x-test]=xxActive applicationxx
+Comment=Plasmoid that shows the active application name.
+Comment[ca]=Plasmoide que mostra el nom de l'aplicació activa.
+Comment[ca@valencia]=Plasmoide que mostra el nom de l'aplicació activa.
+Comment[en_GB]=Plasmoid that shows the active application name.
+Comment[es]=Plasmoide que muestra el título  de la aplicación activa.
+Comment[x-test]=xxPlasmoid that shows the active application name.xx
+Type=Service
+X-KDE-ParentApp=
+X-KDE-PluginInfo-Author=avlas
+X-KDE-PluginInfo-Email=jsardid@gmail.com
+X-KDE-PluginInfo-License=GPL2
+X-KDE-PluginInfo-Name=org.kde.activeApplication
+X-KDE-PluginInfo-Version=1.1
+X-KDE-PluginInfo-Website=
+X-KDE-ServiceTypes=Plasma/Applet
+X-Plasma-API=declarativeappletscript
+X-Plasma-MainScript=ui/main.qml
+X-Plasma-RemoteLocation=
+X-KDE-PluginInfo-Category=Windows and Tasks
+Icon=applications-other

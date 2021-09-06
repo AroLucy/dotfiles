@@ -1,0 +1,15 @@
+{
+    "BDFDB": false,
+    "ZeresPluginLibrary": false,
+    "BugReportHelper": false,
+    "ChannelTabs": false,
+    "ColorTooltips": false,
+    "DashToSpaceInChannelName": true,
+    "FreeEmojis": true,
+    "HideServersChannelsRedux": false,
+    "ReadAllNotificationsButton": false,
+    "ShowBadgesInChat": false,
+    "SpotifyControls": true,
+    "StatusEverywhere": false,
+    "UnreadCountBadges": false
+}

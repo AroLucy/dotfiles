@@ -1,0 +1,22 @@
+/* Here you can define properties for use with Glasscord. */
+
+	/* Windows-specific properties */
+	/* Blur mode. Available types: acrylic (strong blur), blurbehind (light blur), transparent */
+	--glasscord-win-blur: blurbehind;
+	/* Acrylic mode makes some computers pretty unresponsive when resizing/moving the window.
+	   Should we work around it? */
+	--glasscord-win-performance-mode: true;
+
+	/* macOS-specific properties */
+	/* Vibrancy mode */
+	--glasscord-macos-vibrancy: fullscreen-ui;
+
+	/* Linux-specific properties */
+	/* Should Glasscord send a request to your window compositor to blur behind Discord's window? */
+	/* It currently supports KWin only */
+	--glasscord-linux-blur: true;
+
+	/* Discord-specific properties */
+	/* Custom (forced) titlebar */
+	/* native (default), windows, osx, linux (framed) */
+	--glasscord-titlebar: windows;

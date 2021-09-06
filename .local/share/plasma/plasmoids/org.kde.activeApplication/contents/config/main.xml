@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kcfg xmlns="http://www.kde.org/standards/kcfg/1.0"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.kde.org/standards/kcfg/1.0
+      http://www.kde.org/standards/kcfg/1.0/kcfg.xsd" >
+    <kcfgfile name=""/>
+
+    <group name="Appearance">
+        <entry name="boldFontWeight" type="Bool">
+            <default>true</default>
+        </entry>
+        <entry name="showWindowIcon" type="Bool">
+          <default>false</default>
+        </entry>
+        <entry name="leftSpacing" type="Double">
+          <default>12</default>
+        </entry>
+        <entry name="iconAppNameSpacing" type="Double">
+            <default>16</default>
+        </entry>
+        <entry name="rightSpacing" type="Double">
+          <default>10</default>
+        </entry>
+        <entry name="titleReplacements" type="String">
+          <default>"Mozilla ", ""; "Google ", ""; ": Chromium", " — Chromium"; " Player", ""</default>
+        </entry>
+        <entry name="noWindowText" type="String">
+          <default>plasma-kde@%activity%</default>
+        </entry>
+        <entry name="noWindowIcon" type="String">
+          <default>applications-other</default>
+        </entry>
+    </group>
+
+</kcfg>
